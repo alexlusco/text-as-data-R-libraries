@@ -1,7 +1,9 @@
+<div class="text-purple">
 # Text preprocessing
 library(tm)
 library(textclean)
 library(tidytext)
+</div>
 
 # Topic Modeling
 library(lda)\
