@@ -1,9 +1,8 @@
-<div class="text-purple">
-  # Text preprocessing
-  library(tm)
-  library(textclean)
-  library(tidytext)
-</div>
+
+# Text preprocessing
+library(tm)
+library(textclean)
+library(tidytext)
 
 # Topic Modeling
 library(lda)\
@@ -22,3 +21,8 @@ library(parsnip)
 
 # Plotting
 library(ggplot2)
+
+
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
