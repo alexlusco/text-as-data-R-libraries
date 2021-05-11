@@ -1,7 +1,6 @@
-
 # Text preprocessing
-library(tm)
-library(textclean)
+library(tm)\
+library(textclean)\
 library(tidytext)
 
 # Topic Modeling
@@ -21,8 +20,3 @@ library(parsnip)
 
 # Plotting
 library(ggplot2)
-
-
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
