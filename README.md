@@ -1,6 +1,6 @@
 # Popular Libraries for Computational Text Analysis in R
 
-A living repository of R libraries commonly used for computational text analysis. Planning to build this list up over and time, eventually adding more detail about each library and links to library CRAN / GitHub pages. If you'd like to contribute, please do not hesitate to make a pull request!
+A living repository of R libraries commonly used for computational text analysis. Planning to build this list up over time, eventually adding more detail about each library, including links to library CRAN / GitHub pages. If you'd like to contribute to this list, please do not hesitate to make a pull request!
 
 ## Data Collection
 library(rvest)\
